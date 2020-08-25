@@ -1,0 +1,16 @@
+.nav{
+    background-color: #312D3C;
+}
+.nav-link {
+    display: block;
+    padding: 35px;
+}
+a {
+    color: #F15A3B;
+    text-decoration: none;
+    font-size: 35px;
+}
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
